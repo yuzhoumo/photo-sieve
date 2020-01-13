@@ -1,2 +1,2 @@
-# photo-seive
- Command Line Python application for sorting photos/videos
+# PhotoSeive
+PhotoSeive is a Python command line application for sorting photos and videos
